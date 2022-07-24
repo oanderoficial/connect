@@ -1,6 +1,6 @@
 # connect
 
-```
+```python
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 import os
 
